@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="server.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="22" Y="5"/>
+        <UsageCount Value="47"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="thxmlrpc.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ThXmlRpc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="6"/>
+        <FoldState Value=" T3jB04021112312~"/>
+        <UsageCount Value="44"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\packages\fcl-web\src\base\httpdefs.pp"/>
+        <UnitName Value="HTTPDefs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1842"/>
+        <CursorPos X="17" Y="1856"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\packages\fcl-xml\src\xmlread.pp"/>
+        <UnitName Value="XMLRead"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3847"/>
+        <CursorPos X="3" Y="3867"/>
+        <UsageCount Value="8"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\packages\fcl-xml\src\dom.pp"/>
+        <UnitName Value="DOM"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1436"/>
+        <CursorPos X="16" Y="1441"/>
+        <UsageCount Value="9"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\objpas\math.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="547"/>
+        <CursorPos X="11" Y="572"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="625"/>
+        <CursorPos X="15" Y="640"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+    </Units>
+    <JumpHistory Count="14" HistoryIndex="13">
+      <Position1>
+        <Filename Value="server.pas"/>
+        <Caret Line="10" Column="40" TopLine="6"/>
+      </Position1>
+      <Position2>
+        <Filename Value="server.pas"/>
+        <Caret Line="26" Column="30"/>
+      </Position2>
+      <Position3>
+        <Filename Value="server.pas"/>
+        <Caret Line="15"/>
+      </Position3>
+      <Position4>
+        <Filename Value="server.pas"/>
+        <Caret Line="13"/>
+      </Position4>
+      <Position5>
+        <Filename Value="server.pas"/>
+        <Caret Line="30" Column="5"/>
+      </Position5>
+      <Position6>
+        <Filename Value="server.pas"/>
+      </Position6>
+      <Position7>
+        <Filename Value="server.pas"/>
+        <Caret Line="30" Column="5"/>
+      </Position7>
+      <Position8>
+        <Filename Value="server.pas"/>
+      </Position8>
+      <Position9>
+        <Filename Value="server.pas"/>
+        <Caret Line="30"/>
+      </Position9>
+      <Position10>
+        <Filename Value="server.pas"/>
+        <Caret Line="11" Column="10"/>
+      </Position10>
+      <Position11>
+        <Filename Value="server.pas"/>
+        <Caret Line="29" Column="5"/>
+      </Position11>
+      <Position12>
+        <Filename Value="server.pas"/>
+      </Position12>
+      <Position13>
+        <Filename Value="server.pas"/>
+        <Caret Line="29" Column="5"/>
+      </Position13>
+      <Position14>
+        <Filename Value="server.pas"/>
+        <Caret Line="18" Column="6"/>
+      </Position14>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
